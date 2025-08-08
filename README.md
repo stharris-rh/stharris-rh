@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I am currently building my skills in working in git repos! 
+I look forward to adding more projects and creating cool things!
 <!--
 **stharris-rh/stharris-rh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
